@@ -19,7 +19,6 @@ You can find me. Currently I'm **free to contribute**
 </p>
 
 [![Twitter: HimankJain](https://img.shields.io/twitter/follow/himmii?style=social)](https://twitter.com/hiimmiiii)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
 [![GitHub HimankJain](https://img.shields.io/github/followers/Himmii?label=follow&style=social)](https://github.com/Himmii)
  
 <p align="center"> 
