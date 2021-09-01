@@ -4,9 +4,6 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Outside of [GitHub](https://github.com/Himmii/), 
-You can find me. Currently I'm **free to contribute**
-
 - 👨🏽‍💻 I’m currently working on PYTHON;
 - 🌱 I’m currently learning Java and Javascript
 - 🤔 I’m looking for help with Design Pattern 😭;
@@ -18,6 +15,9 @@ You can find me. Currently I'm **free to contribute**
 <img width="50%" height="150em" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himmii&layout=compact&langs_count=8&theme=radical"/>
 <img width="50%" height="150em" align ="right" src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </p>
+
+Outside of [GitHub](https://github.com/Himmii/), 
+You can find me. Currently I'm **free to contribute**
 
 [![Twitter: HimankJain](https://img.shields.io/twitter/follow/himmii?style=social)](https://twitter.com/hiimmiiii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
