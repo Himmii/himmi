@@ -5,8 +5,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himmii&layout=compact&langs_count=8&theme=radical"/>
+<img height="160em" align ="left" src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himmii&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 Outside of [GitHub](https://github.com/Himmii/), 
