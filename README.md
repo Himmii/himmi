@@ -18,11 +18,9 @@ You can find me. Currently I'm **free to contribute**
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himmii&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-<div align = "centre">
 [![Twitter: HimankJain](https://img.shields.io/twitter/follow/himmii?style=social)](https://twitter.com/hiimmiiii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
 [![GitHub HimankJain](https://img.shields.io/github/followers/Himmii?label=follow&style=social)](https://github.com/Himmii)
-</div>
  
 <p align="center"> 
   Visitor count<br>
