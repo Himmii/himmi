@@ -12,8 +12,8 @@
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
 
 <p align="center">
-<img width="50%" height="150em" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himmii&layout=compact&langs_count=8&theme=radical"/>
-<img width="50%" height="150em" align ="right" src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="150em" align ="left" src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="150em" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himmii&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 Outside of [GitHub](https://github.com/Himmii/), 
