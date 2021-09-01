@@ -4,13 +4,13 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+Outside of [GitHub](https://github.com/Himmii/), 
+You can find me. Currently I'm **free to contribute**
+
 <p align="center">
 <img height="150em" align ="left" src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="150em" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himmii&layout=compact&langs_count=8&theme=radical"/>
 </p>
-
-Outside of [GitHub](https://github.com/Himmii/), 
-You can find me. Currently I'm **free to contribute**
 
 [![Twitter: HimankJain](https://img.shields.io/twitter/follow/himmii?style=social)](https://twitter.com/hiimmiiii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
