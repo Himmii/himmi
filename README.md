@@ -11,6 +11,7 @@ Outside of [GitHub](https://github.com/Himmii/),
 You can find me. Currently I'm **free to contribute**
 
 [![Twitter: HimankJain](https://img.shields.io/twitter/follow/wh1t3r0se_?style=social)](https://twitter.com/hiimmiiii)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
 [![GitHub HimankJain](https://img.shields.io/github/followers/Himmii?label=follow&style=social)](https://github.com/Himmii)
 <p align="center"> 
   Visitor count<br>
