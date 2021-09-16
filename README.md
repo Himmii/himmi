@@ -11,7 +11,7 @@
 - ⚡️ Fun-Fact: I overthink this much, that if you're watching my profile right now, odds are that I might've seen you seeing me in my imagination already.
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
 - Outside of [GitHub](https://github.com/Himmii/), 
-You can find me. Currently I'm **free to contribute**
+You can find me. Currently I'm **free to contribute.**
 
 <p>
 <img height="150em" width="450em"src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
