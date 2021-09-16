@@ -15,7 +15,7 @@ You can find me. Currently I'm **free to contribute**
 
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Himmii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></p>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?himmii" frameborder="0"></iframe>
+<img><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?himmii" frameborder="0"></iframe></img>
 
 [![Twitter: HimankJain](https://img.shields.io/twitter/follow/himmii?style=social)](https://twitter.com/hiimmiiii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jainhimank1004@gmail.com)
