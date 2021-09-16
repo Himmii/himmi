@@ -1,4 +1,4 @@
-## Hi there, I am Himank, A CyberSec Enthusiast and Certified Ethical Hacker from India👋
+## Hi there, I am Himank, A CyberSec Enthusiast and CEH from India👋
 
 **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/Himmii) represent my journey :running_man: - This is Himank Jain a techie with the urge to learn more and more . I have over 2 years’ experience in CyberSec . I am a computer geek by passion. 
 
